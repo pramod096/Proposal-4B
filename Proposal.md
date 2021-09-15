@@ -48,3 +48,5 @@
 * Single-Page Web App
 #### Front-end Frameworks
 *  Vue.js, Bootstrap
+
+[***Terms and Conditions***](TermsAndConditions.md)
