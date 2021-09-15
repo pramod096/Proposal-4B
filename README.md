@@ -10,3 +10,6 @@
 
 * With the experience of developing more than hundred websites in the past years, we propose to develop your Website with ***Node.js*** for Back-end, as it is easily scalable and has high performance and ***Vue.js, Bootstrap*** for the Font-end.
 
+***Relax, all of our websites are 'Responsive'.
+Computer, Tablet or Phone - it will look great!***
+
