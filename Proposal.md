@@ -18,6 +18,16 @@
 
 * We'll go through this design and decide which direction to take and any adjustments.
 
+#### Sprint 3. Website Build
+
+* Using everything we've gathered, your website is built with the initial home page using Node.js for the Back-end and the database is created for the Application. At this point the data can be accessed dynamically from the database. Once it's done, we'll present it to you and go through the details in accordance with the objectives originally set.
+
+* Any amends are made at this stage.
+
+#### Sprint 4. Testing and Installation
+
+* The features developed until now are tested and the application is hosted on Heroku and will be able to run on any device. Any issues with the deployment will be resolved and the application will be ready for furthur development during next semester.
+
 ## Budget
 
 ## Stack
