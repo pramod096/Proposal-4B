@@ -37,3 +37,14 @@
 
 
 ## Stack
+
+#### Backend Language + Framework
+* JavaScript / Node.js
+#### Application Hosting
+* Heroku
+#### Data Host + Type
+* Atlas MongoDB
+#### Front-end Page Plan
+* Single-Page Web App
+#### Front-end Frameworks
+*  Vue.js, Bootstrap
