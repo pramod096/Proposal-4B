@@ -50,3 +50,11 @@
 *  Vue.js, Bootstrap
 
 [***Terms and Conditions***](TermsAndConditions.md)
+
+
+### ***To Accept, Sign Below***
+
+   -------------------------
+    
+    
+    
