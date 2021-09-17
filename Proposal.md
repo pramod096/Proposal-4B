@@ -4,9 +4,9 @@
 
 * The objective is to develop a Progressive Web Application that looks good on any device. The application is a City Guide for Maryville, which offers users with essential city information and also saves time.
 
-## Process & Schedule
+## Scope & Schedule
 
-* The Schedule is based on Sprints and every Sprint consist of a 2 week period. Each process is scheduled to be completed in 1 Sprint.
+* The Schedule is based on Sprints and every Sprint consists of a 2 week period. Each process is scheduled to be completed in 1 Sprint.
 
 #### Sprint 1. Gather Requirements
 
