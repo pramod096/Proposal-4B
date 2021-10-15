@@ -24,7 +24,7 @@
 
 * Any amends are made at this stage.
 
-#### Sprint 4. Testing and Installation(Nov 1<sup>st</sup> 2021 - Nov 12<sup>th</sup> 2021)
+#### Sprint 4. Testing and Deployment(Nov 1<sup>st</sup> 2021 - Nov 12<sup>th</sup> 2021)
 
 * The features developed until now are tested and the application is hosted on Heroku and will be able to run on any device. Any issues with the deployment will be resolved and the application will be ready for furthur development during next semester.
 
