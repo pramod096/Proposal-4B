@@ -35,11 +35,14 @@
 #### Sprint 6. Adding Locations (Jan 31<sup>st</sup> 2022 – Feb 11<sup>th</sup> 2022)
 * After Logging in the user will be able to add new Locations and it will be stored in the database. The newly added Locations will be visible to all the other users. The functionality to delete the Location will also be added. At this point, the user will be able to perform all the CRUD Operations.
 
-#### Sprint 7. Forgot Password (Feb 14th 2022 - Feb 25th 2022)
+#### Sprint 7. Forgot Password (Feb 14<sup>th</sup> 2022 - Feb 25<sup>th</sup> 2022)
 *	The functionality for a user to reset their password will be added. A reset link will be sent to the user email. The email id provided by the user during sign-up will be used.
 
-#### Sprint 8. Finalizing and Testing(Feb 28th 2022 - Mar 11th 2022)
+#### Sprint 8. Finalizing and Testing (Feb 28<sup>th</sup> 2022 - Mar 11<sup>th</sup> 2022)
 * A Like button will be added and the Locations will be prioritized based on the likes. The functionality to update a random location everyday in the Home Page. The entire app will be tested.
+
+#### Sprint 9. Presentation (Mar 14<sup>th</sup> 2022 - Mar 25<sup>th</sup> 2022)
+*	The complete version of the Application will be presented to the Client, and any changes or suggestions from the client will be implemented. The final version of the application will be deployed.
 
 
 
