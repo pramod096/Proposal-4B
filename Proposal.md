@@ -69,6 +69,9 @@
 #### Static Analysis Tools
 *  Codacy
 
+## Security
+* The application is encrypted with HTTPS protocol, which is provided by heroku and also the data transfer between the backend and cloud database is managed by Atlas which uses TLS/SSL to encrypt the connection to the database.
+
 [***Terms and Conditions***](TermsAndConditions.md)
 
 
