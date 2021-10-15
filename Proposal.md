@@ -66,6 +66,8 @@
 * Single-Page Web App
 #### Front-end Frameworks
 *  Vue.js, Bootstrap
+#### Static Analysis Tools
+*  Codacy
 
 [***Terms and Conditions***](TermsAndConditions.md)
 
