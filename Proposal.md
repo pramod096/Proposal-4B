@@ -57,7 +57,7 @@
 ## Stack
 
 #### Backend Language + Framework
-* JavaScript / Node.js
+* JavaScript / Node.js(Express)
 #### Application Hosting
 * Heroku
 #### Data Host + Type
