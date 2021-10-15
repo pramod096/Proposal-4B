@@ -28,7 +28,7 @@
 
 * The features developed until now are tested and the application is hosted on Heroku and will be able to run on any device. You will be provided with the deployment link to assess the application. Any issues with the deployment will be resolved and the application will be ready for further development during next semester.
 
-#### Sprint 5. Authentication and Authorization (Jan 17th 2022 - Jan 29th 2022)
+#### Sprint 5. Authentication and Authorization (Jan 17<sup>st</sup> 2022 - Jan<sup>th</sup> 29th 2022)
 
 * The SignUp and Login Pages created and integrated with the backend and the users will be able to Login by Authenticating with their username and password. Also new users can create an account and their data will be added to the cloud database.
 
