@@ -8,29 +8,33 @@
 
 * The Schedule is based on Sprints and every Sprint consists of a 2 week period. Each process is scheduled to be completed in 1 Sprint.
 
-#### Sprint 1. Gather Requirements(Sep 20<sup>th</sup> 2021 - Sep 31<sup>st</sup> 2021)
+#### Sprint 1. Gather Requirements (Sep 20<sup>th</sup> 2021 - Sep 31<sup>st</sup> 2021)
 
 * We need to get to the bottom of what you need and what you stand for. Only then can we begin to create a design that portrays the value you offer in a way that resonates with the people who matter: the users of your application.
 
-#### Sprint 2. Design presentation(Oct 4<sup>th</sup> 2021 - Oct 15<sup>th</sup> 2021)
+#### Sprint 2. Design presentation (Oct 4<sup>th</sup> 2021 - Oct 15<sup>th</sup> 2021)
 
 * A new design concept of the home page and a page to list all locations, will be presented as per your sketches, using Front-end Frameworks as Vue.js and Bootstrap. Naturally there will be a common theme but we try to think outside the box and come up with something that isn't obvious. This is often where the best ideas come from. We will be using a technique in CSS called Neumorphism that gives a 3D effect to the components.
 
 * We'll go through this design and decide which direction to take and any adjustments to be made.
 
-#### Sprint 3. Website Build(Oct 18<sup>th</sup> 2021 - Oct 29<sup>th</sup> 2021)
+#### Sprint 3. Website Build (Oct 18<sup>th</sup> 2021 - Oct 29<sup>th</sup> 2021)
 
 * Using everything we've gathered, the Backend is built with Node.js and Express Framework and is linked to the cloud database. At this point the data can be accessed dynamically from the database by integrating Frontend and Backend. The page where user can add new locations will be created. Once it's done, we'll present it to you and go through the details in accordance with the objectives originally set.
 
 * Any amends are made at this stage.
 
-#### Sprint 4. Testing and Deployment(Nov 1<sup>st</sup> 2021 - Nov 12<sup>th</sup> 2021)
+#### Sprint 4. Testing and Deployment (Nov 1<sup>st</sup> 2021 - Nov 12<sup>th</sup> 2021)
 
 * The features developed until now are tested and the application is hosted on Heroku and will be able to run on any device. You will be provided with the deployment link to assess the application. Any issues with the deployment will be resolved and the application will be ready for further development during next semester.
 
 #### Sprint 5. Authentication and Authorization (Jan 17<sup>st</sup> 2022 - Jan<sup>th</sup> 29th 2022)
 
 * The SignUp and Login Pages created and integrated with the backend and the users will be able to Login by Authenticating with their username and password. Also new users can create an account and their data will be added to the cloud database.
+
+#### Sprint 6. Adding Locations (Jan 31<sup>st</sup> 2022 – Feb 11<sup>th</sup> 2022)
+* After Logging in the user will be able to add new Locations and it will be stored in the database. The newly added Locations will be visible to all the other users. The functionality to delete the Location will also be added. At this point, the user will be able to perform all the CRUD Operations.
+
 
 ## Budget
 
