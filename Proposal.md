@@ -20,7 +20,7 @@
 
 #### Sprint 3. Website Build(Oct 18<sup>th</sup> 2021 - Oct 29<sup>th</sup> 2021)
 
-* Using everything we've gathered, the Backend is built with Node.js and Express Framework and is linked to the cloud database. At this point the data can be accessed dynamically from the database. Once it's done, we'll present it to you and go through the details in accordance with the objectives originally set.
+* Using everything we've gathered, the Backend is built with Node.js and Express Framework and is linked to the cloud database. At this point the data can be accessed dynamically from the database by integrating Frontend and Backend. The page where user can add new locations will be created. Once it's done, we'll present it to you and go through the details in accordance with the objectives originally set.
 
 * Any amends are made at this stage.
 
