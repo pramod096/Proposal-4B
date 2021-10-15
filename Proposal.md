@@ -38,6 +38,9 @@
 #### Sprint 7. Forgot Password (Feb 14th 2022 - Feb 25th 2022)
 *	The functionality for a user to reset their password will be added. A reset link will be sent to the user email. The email id provided by the user during sign-up will be used.
 
+#### Sprint 8. Finalizing and Testing(Feb 28th 2022 - Mar 11th 2022)
+* A Like button will be added and the Locations will be prioritized based on the likes. The functionality to update a random location everyday in the Home Page. The entire app will be tested.
+
 
 
 ## Budget
