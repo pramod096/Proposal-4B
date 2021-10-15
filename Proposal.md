@@ -26,7 +26,7 @@
 
 #### Sprint 4. Testing and Deployment(Nov 1<sup>st</sup> 2021 - Nov 12<sup>th</sup> 2021)
 
-* The features developed until now are tested and the application is hosted on Heroku and will be able to run on any device. Any issues with the deployment will be resolved and the application will be ready for furthur development during next semester.
+* The features developed until now are tested and the application is hosted on Heroku and will be able to run on any device. You will be provided with the deployment link to assess the application. Any issues with the deployment will be resolved and the application will be ready for further development during next semester.
 
 ## Budget
 
