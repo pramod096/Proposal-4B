@@ -72,6 +72,11 @@
 ## Security
 * The application is encrypted with HTTPS protocol, which is provided by heroku and also the data transfer between the backend and cloud database is managed by Atlas which uses TLS/SSL to encrypt the connection to the database.
 
+## Application Screens
+![Home](images/Home.PNG)
+![List](images/List.PNG)
+![Login](images/Login.PNG)
+
 [***Terms and Conditions***](TermsAndConditions.md)
 
 
