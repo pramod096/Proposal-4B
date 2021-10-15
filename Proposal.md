@@ -14,9 +14,9 @@
 
 #### Sprint 2. Design presentation(Oct 4<sup>th</sup> 2021 - Oct 15<sup>th</sup> 2021)
 
-* A new design concept of the home page and a page to list all locations, will be presented as per your sketches, using Front-end Frameworks as Vue.js and Bootstrap. Naturally there will be a common theme but we try to think outside the box and come up with something that isn't obvious. This is often where the best ideas come from. 
+* A new design concept of the home page and a page to list all locations, will be presented as per your sketches, using Front-end Frameworks as Vue.js and Bootstrap. Naturally there will be a common theme but we try to think outside the box and come up with something that isn't obvious. This is often where the best ideas come from. We will be using a technique in CSS called Neumorphism that gives a 3D effect to the components.
 
-* We'll go through this design and decide which direction to take and any adjustments.
+* We'll go through this design and decide which direction to take and any adjustments to be made.
 
 #### Sprint 3. Website Build(Oct 18<sup>th</sup> 2021 - Oct 29<sup>th</sup> 2021)
 
