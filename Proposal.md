@@ -72,6 +72,9 @@
 ## Entity Relationship Diagram
 ![ER](images/ERFeaturedLocations.png)
 
+## Sample Data
+* [Sample Data](resources/SampleDataOfFD.xlsx)
+
 ## Security
 * The application is encrypted with HTTPS protocol, which is provided by heroku and also the data transfer between the backend and cloud database is managed by Atlas which uses TLS/SSL to encrypt the connection to the database.
 
