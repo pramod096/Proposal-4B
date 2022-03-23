@@ -4,7 +4,7 @@
 
 ## About US
 
-* ***PN Solutions*** is a world-renowned software solutions company based in Maryville, Missouri. We specialize in innovative website design and development to meet the needs of clients in various industries and assist them.
+* ***PA2N Solutions*** is a world-renowned software solutions company based in Maryville, Missouri. We specialize in innovative website design and development to meet the needs of clients in various industries and assist them.
 
 ## Stack
 
