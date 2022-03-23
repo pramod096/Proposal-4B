@@ -50,8 +50,10 @@
 
 | S. No. | Name                                                            | Role              | Hourly Pay                | Hours/ Week | Estimated Cost/ Week |
 |------|--------------------------------------------------------------------|--------------------|------------------------| ------------- | ---------- |
-| 1    | [Pramod Reddy Gonegari](https://github.com/pramod096)           | Back-end Developer  | $45 |   9 - 12 |  $405 - $540 |
-| 2    | [Narendra Kumar Gunturu](https://github.com/Narendra-kumar-Gunturu)                   | Front-end Developer | $45 | 9 - 12 | $405 - $540 |
+| 1    | [Pramod Reddy Gonegari](https://github.com/pramod096)           | Full Stack Developer  | $45 |   9 - 12 |  $405 - $540 |
+| 2    | [Narendra Kumar Gunturu](https://github.com/Narendra-kumar-Gunturu) |  Full Stack Developer | $45 | 9 - 12 | $405 - $540 |
+| 3    | [Narsing Rao Nikitha Madhari](https://github.com/NikithaMN-05) |  Full Stack Developer | $45 | 9 - 12 | $405 - $540 |
+| 4    | [Abhilash Ramavaram](https://github.com/AbhiRam0099) |  Full Stack Developer | $45 | 9 - 12 | $405 - $540 |
 
 
 ## Stack
